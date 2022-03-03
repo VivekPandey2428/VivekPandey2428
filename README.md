@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Pandey
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently working as a Software Engineer at Kranti Tech
+- 🌱 I’m currently working as a Software Engineer at Metafic
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me vivekroxstar9@gmail.com
 
